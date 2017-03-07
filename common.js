@@ -13,7 +13,7 @@ jQuery(document).ready(function(){
 	//Thanh cuộn top phim tuần+tháng
 	try{
 		jQuery('#list-top-movie-week, #list-top-film-week').slimScroll({
-			height: '477px',
+			height: '795px',
 			railVisible: true,
 			alwaysVisible: true
 		});
